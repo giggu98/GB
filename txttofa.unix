@@ -1,0 +1,2 @@
+#convert.txtto.fasta
+awk '{ printf ">%s\n%s\n",$1,$2 }' sequence.txt > sequence.fasta
