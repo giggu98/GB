@@ -1,0 +1,5 @@
+transcript_id
+comp133362_c0_seq1
+comp3315_c1_seq1
+comp73832_c0_seq1
+comp4384_c0_seq1
